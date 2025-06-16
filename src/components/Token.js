@@ -87,7 +87,7 @@ const ESGTokensPage = () => {
           beneficiaries: 125000,
           impact: '24/7 Medical Care',
           status: 'Active',
-          image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=400',
+          image: 'https://images.unsplash.com/photo-1497486751825-1233686d5d80?w=400&h=300&fit=crop', // Students in classroom
         },
         {
           id: 4,
@@ -101,7 +101,7 @@ const ESGTokensPage = () => {
           beneficiaries: 3200,
           impact: 'Primary Education',
           status: 'Near Complete',
-          image: 'https://images.unsplash.com/photo-1497486751825-1233686d5d80?w=400',
+          image: 'https://images.unsplash.com/photo-1721713809583-0f9f6cfba998?w=400&h=300&fit=crop',
         }
       ],
       impactMetrics: {
